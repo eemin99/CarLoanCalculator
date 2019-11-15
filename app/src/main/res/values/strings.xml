@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarLoanCalculator</string>
+    <string name="downPayment">Down Payment</string>
+    <string name="carPrice">Car Price</string>
+    <string name="loanPeriod">Loan Period</string>
+    <string name="interestRate">Interest Rate</string>
+    <string name="calculate">Calculate</string>
+</resources>
